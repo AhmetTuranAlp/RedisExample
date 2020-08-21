@@ -24,7 +24,7 @@ Redis veri türleri = http://redis.io/topics/data-types-intro
 # Redis Kurulumu
 İlk önce https://github.com/MSOpenTech/redis/releases adresine giderek Microsoft Open Tech tarafından çıkarılan son Redis sürümünü indirelim. Yazının yazıldığı tarihte son sürüm 3.2.100 olarak gözükmektedir. 
 
-Kurulum dosyasını indirdikten sonra ilk olarak redis-server.exe programını çalıştırıp Redis serverı aktif hale getireceksiniz bu işlemi yaptıktan sonra aynı klasör içindeki redis-cli.exe eklentisini çalıştırdığınız zaman da artık Redis veri tabanı sistemini kullanabilir veri tabanlarınızı oluşturabilirsiniz, redisin default veri tabanı oluşturma sayısı 16 adettir siz bunu bazı değişikliklerle arttırabilirsiniz fakat ben yeterli olacağını düşünüyorum.
+Kurulum dosyasını indirdikten sonra ilk olarak redis-server.exe programını çalıştırıp Redis serverı aktif hale getireceksiniz bu işlemi yaptıktan sonra aynı klasör içindeki redis-cli.exe eklentisini çalıştırdığınız zaman da artık Redis veri tabanı sistemini kullanabilir veri tabanlarınızı oluşturabilirsiniz.
 
 Redis çalışıp çalışmadığına dair kontrol için redis-cli.exe'yi çalıştıralım ve set value1 key1 yazarak kayıt yapabilir daha sonrada get value1 diyerek key1 değerini elde edebilirsiniz
 
