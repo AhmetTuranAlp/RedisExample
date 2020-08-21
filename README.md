@@ -15,8 +15,11 @@ Redis(Remote Dictionary Server), en temel tanımıyla anahtar-değer (key-value)
 
 # Kaynaklar
 Redis döküman = https://redis.io/documentation
+
 Redis komutlarının tam listesi. = https://redis.io/commands
+
 Redis veri türleri = http://redis.io/topics/data-types-intro
+
 
 # Redis Kurulumu
 İlk önce https://github.com/MSOpenTech/redis/releases adresine giderek Microsoft Open Tech tarafından çıkarılan son Redis sürümünü indirelim. Yazının yazıldığı tarihte son sürüm 3.2.100 olarak gözükmektedir. 
