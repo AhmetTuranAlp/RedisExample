@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\bin\Debug\netcoreapp3.1\RedisExample.Cache.deps.json
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\bin\Debug\netcoreapp3.1\RedisExample.Cache.dll
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\obj\Debug\netcoreapp3.1\RedisExample.Cache.AssemblyInfoInputs.cache
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\obj\Debug\netcoreapp3.1\RedisExample.Cache.AssemblyInfo.cs
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\obj\Debug\netcoreapp3.1\RedisExample.Cache.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\bin\Debug\netcoreapp3.1\RedisExample.Cache.pdb
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\obj\Debug\netcoreapp3.1\RedisExample.Cache.dll
+C:\Users\ahmet\source\repos\RedisExample\RedisExample.Cache\obj\Debug\netcoreapp3.1\RedisExample.Cache.pdb
