@@ -1,5 +1,5 @@
 # RedisExample
-.Net Core Web API ile Redis Cache kullanılarak cache işlemlerinin yapıldığı basit bir demo. Distributed caching mekanizmasını sağlamak için IDistributedCache arayüzünü uygulayan bir servise sahiptir. Uygulamada ülke ve ülkelere ait şehir bilgileri üzerinden redis ile cacheleme yapılmaktadır. 
+.Net Core Web API ile Redis Cache kullanılarak cache işlemlerinin yapıldığı basit bir demo. Uygulamada ülke ve ülkelere ait şehir bilgileri üzerinden redis ile cacheleme yapılmaktadır. 
 
 # Uygulamada Kullanılan Metotlar
 Get() = Data Okuma 
